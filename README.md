@@ -380,7 +380,7 @@ Example:
 
 $ ./sodash
 
-$ setenv NAME Holberton
+$ setenv NAME Holberton/alx
 
 $ unsetenv NAME
 
@@ -392,9 +392,7 @@ $
 
 Authors & Copyrights
 
-Luis chaparro <luischaparroc>
+Palesa Mogale & Simiso Manqele
 
-Edward Ortiz <edward0rtiz>
 
-More information
-
+===============================
